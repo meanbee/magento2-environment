@@ -2,6 +2,14 @@
 
 This repository is the development environment that Meanbee are using for their Magento 2 builds.
 
+This repository will build a Magento 2 instance and inject the configured extensions into it.
+
+We are currently running:
+
+* PHP 7
+* NGINX
+* MySql
+
 ## Development Environment Setup
 
     cp composer.env.sample composer.env
