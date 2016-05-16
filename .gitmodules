@@ -1,0 +1,4 @@
+[submodule "extensions/meanbee-example-magento2-module2"]
+	path = extensions/meanbee-example-magento2-module2
+	url = git@github.com:meanbee/example-magento2-module.git
+	branch = develop
