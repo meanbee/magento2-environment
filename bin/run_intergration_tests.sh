@@ -1,7 +1,5 @@
 #!/bin/bash -x
 
-MAGENTO_ROOT="/magento"
-
 PHP="/usr/local/bin/php -d memory_limit=2G"
 PHPUNIT_CONFIGURATION="$MAGENTO_ROOT/dev/tests/integration/phpunit.xml.dist"
 MYSQL_CONFIGURATION="$MAGENTO_ROOT/dev/tests/integration/etc/install-config-mysql.php"
