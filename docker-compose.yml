@@ -16,7 +16,7 @@ web:
 appdata:
   image: tianon/true
   volumes:
-    - ./magento:/magento
+    - ./magento:/var/www/magento
     - ./:/src
     - ~/.composer/cache:/root/.composer/cache
 
