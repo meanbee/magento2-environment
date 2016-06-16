@@ -1,6 +1,5 @@
 #!/bin/bash
 
-MAGENTO_ROOT="/magento"
 PHP="/usr/local/bin/php"
 COMPOSER="$PHP /usr/local/bin/composer"
 

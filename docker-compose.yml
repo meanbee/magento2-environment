@@ -77,3 +77,4 @@ cli:
     - M2SETUP_BACKEND_FRONTNAME=admin
     - M2SETUP_VERSION=2.0.4
     - M2SETUP_USE_SAMPLE_DATA=true
+    - MAGENTO_ROOT=/var/www/magento
