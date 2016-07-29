@@ -11,7 +11,7 @@ cd $MAGENTO_ROOT
 # this is a hack.
 ln -s /src/ src
 
-$COMPOSER config repositories.meanbee_example-magento2-module path /src/extensions/meanbee-example-magento2-module
+$COMPOSER config repositories.meanbee_example-magento2-module path /src/extensions/meanbee-example-magento2-module2
 
 $COMPOSER require "meanbee/example-magento2-module" "*"
 
